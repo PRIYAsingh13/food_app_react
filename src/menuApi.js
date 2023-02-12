@@ -28,7 +28,7 @@ const Menu = [
     id: 4,
     image: "images/chola.jpg",
     name: "Chola",
-    category: "breakfast",
+    category: "dinner",
     price: 25,
     description:
       " i love maggi i love maggii love maggii love maggii love maggii",
@@ -44,7 +44,40 @@ const Menu = [
     id: 6,
     image: "images/maggi.jpg",
     name: "maggi",
-    category: "Dinner",
+    category: "evening",
+    price: 25,
+    description:
+      " i love maggi i love maggii love maggii love maggii love maggii",
+  },
+  {
+    id: 7,
+    image: "images/daal-bati.jpg",
+    name: "daal-bati",
+    category: "evening",
+    price: 25,
+    description:
+      " i love maggi i love maggii love maggii love maggii love maggii",
+  }, {
+    id: 6,
+    image: "images/ice-cream.jpg",
+    name: "ice-cream",
+    category: "lunch",
+    price: 25,
+    description:
+      " i love maggi i love maggii love maggii love maggii love maggii",
+  }, {
+    id: 6,
+    image: "images/paneer.jpg",
+    name: "paneer",
+    category: "dinner",
+    price: 25,
+    description:
+      " i love maggi i love maggii love maggii love maggii love maggii",
+  }, {
+    id: 6,
+    image: "images/rice.jpg",
+    name: "rice",
+    category: "dinner",
     price: 25,
     description:
       " i love maggi i love maggii love maggii love maggii love maggii",

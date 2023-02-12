@@ -1,0 +1,41 @@
+.navbar{
+    text-align: center;
+    padding-top: 50px;
+}
+.navbar h1{
+    padding-bottom: 20px;
+    text-transform: capitalize;
+}
+.btn-group{
+    border-radius: 1rem;
+    text-transform: capitalize;
+
+}
+.btn-item{
+    border: none;
+    padding: 1.5rem 3rem;
+    cursor: pointer;
+    margin: 0;
+    font-size: 17px;
+    box-shadow: inset 0 0 0 -15px rebeccapurple;
+
+}
+.btn-item:last-child{
+    border-top-right-radius:1rem ;
+    border-bottom-right-radius:1rem ;
+}
+.btn-item:first-child{
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+.btn-item:hover,.btn-item:focus{
+    color: rgb(218, 167, 30);
+    
+}
+/* .btn-item:after{
+    content:"";
+    margin-left: 0.5rem;
+    display: inline-block;
+    position: absolute;
+
+} */
